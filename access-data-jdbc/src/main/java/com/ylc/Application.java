@@ -39,7 +39,7 @@ public class Application {
             splitUpNames.forEach(name -> log.info("Inserting customer record for %s %s",name[0],name[1]));
             jdbcTemplate.batchUpdate("insert into customer(first_name,last_name) values(?,?)", splitUpNames);
             log.info("查询姓张的人");
-            jdbcTemplate.query("SELECT id, first_name, last_name FROM customer WHERE first_name = ?", new Object[] { "Josh" },(rs, rowNum) -> new Customer(rs.getLong("id"), rs.getString("first_name"), rs.getString("last_name"))).forEach(customer -> log.info(customer.toString()));
+            jdbcTemplate.query("SELECT id, first_name, last_name FROM customer WHERE first_name = ?", new Object[] { "张" },(rs, rowNum) -> new Customer(rs.getLong("id"), rs.getString("first_name"), rs.getString("last_name"))).forEach(customer -> log.info(customer.toString()));
         };
     }
 }

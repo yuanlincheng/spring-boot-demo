@@ -36,6 +36,8 @@
 
     <properties>
         <project.build.verson>1.0.0</project.build.verson>
+        <!--必须要加下面的选项，maven会使用此项打包-->
+        <java.version>1.8</java.version>
     </properties>
 
     <dependencies>
