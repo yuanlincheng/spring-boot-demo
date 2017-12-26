@@ -12,6 +12,7 @@
         <module>scheduling-tasks</module>
         <module>consume-rest-ws</module>
         <module>access-data-jdbc</module>
+        <module>upload-files</module>
     </modules>
 
     <!--第一种方式 使用spring boot-->
@@ -52,11 +53,17 @@
             <artifactId>spring-boot-starter-test</artifactId>
             <scope>test</scope>
         </dependency>
+        <!--启用spring boot thymeleaf组件 网页模板-->
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-thymeleaf</artifactId>
+        </dependency>
         <!--引用lombok组件,用于简化JAVA开发样板代码-->
         <dependency>
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
             <version>1.16.18</version>
+            <scope>provided</scope>
         </dependency>
 
         <dependency>

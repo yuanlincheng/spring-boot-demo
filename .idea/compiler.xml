@@ -10,6 +10,7 @@
         <module name="consume-rest-ws" />
         <module name="restful-web-service" />
         <module name="scheduling-tasks" />
+        <module name="upload-files" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
@@ -18,6 +19,7 @@
       <module name="restful-web-service" target="1.8" />
       <module name="scheduling-tasks" target="1.8" />
       <module name="spring-boot-demo" target="1.8" />
+      <module name="upload-files" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

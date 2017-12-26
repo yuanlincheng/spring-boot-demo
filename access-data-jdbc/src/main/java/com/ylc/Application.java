@@ -20,6 +20,7 @@ import java.util.stream.Collectors;
  * description: xxx
  * own: Aratek
  */
+@SuppressWarnings({"SqlNoDataSourceInspection", "SqlDialectInspection"})
 @SpringBootApplication
 public class Application {
 
