@@ -1,21 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
+    <option name="DEFAULT_COMPILER" value="Eclipse" />
     <annotationProcessing>
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="access-data-jdbc" />
         <module name="consume-rest-ws" />
         <module name="restful-web-service" />
         <module name="scheduling-tasks" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
-      <module name="consume-rest-ws" target="1.6" />
-      <module name="restful-web-service" target="1.6" />
-      <module name="scheduling-tasks" target="1.6" />
-      <module name="spring-boot-demo" target="1.6" />
+      <module name="access-data-jdbc" target="1.8" />
+      <module name="consume-rest-ws" target="1.8" />
+      <module name="restful-web-service" target="1.8" />
+      <module name="scheduling-tasks" target="1.8" />
+      <module name="spring-boot-demo" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

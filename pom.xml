@@ -11,6 +11,7 @@
         <module>restful-web-service</module>
         <module>scheduling-tasks</module>
         <module>consume-rest-ws</module>
+        <module>access-data-jdbc</module>
     </modules>
 
     <!--第一种方式 使用spring boot-->
