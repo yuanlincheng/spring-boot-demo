@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="access-data-jdbc" />
         <module name="consume-rest-ws" />
+        <module name="message-with-jms" />
         <module name="message-with-redis" />
         <module name="restful-web-service" />
         <module name="scheduling-tasks" />
@@ -19,6 +20,7 @@
     <bytecodeTargetLevel target="1.8">
       <module name="access-data-jdbc" target="1.8" />
       <module name="consume-rest-ws" target="1.8" />
+      <module name="message-with-jms" target="1.8" />
       <module name="message-with-redis" target="1.8" />
       <module name="restful-web-service" target="1.8" />
       <module name="scheduling-tasks" target="1.8" />
