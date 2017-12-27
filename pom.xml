@@ -13,6 +13,9 @@
         <module>consume-rest-ws</module>
         <module>access-data-jdbc</module>
         <module>upload-files</module>
+        <module>message-with-redis</module>
+        <module>validate-form-input</module>
+        <module>web-actuator</module>
     </modules>
 
     <!--第一种方式 使用spring boot-->

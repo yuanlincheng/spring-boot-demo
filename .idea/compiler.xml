@@ -8,18 +8,24 @@
         <outputRelativeToContentRoot value="true" />
         <module name="access-data-jdbc" />
         <module name="consume-rest-ws" />
+        <module name="message-with-redis" />
         <module name="restful-web-service" />
         <module name="scheduling-tasks" />
         <module name="upload-files" />
+        <module name="validate-form-input" />
+        <module name="web-actuator" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
       <module name="access-data-jdbc" target="1.8" />
       <module name="consume-rest-ws" target="1.8" />
+      <module name="message-with-redis" target="1.8" />
       <module name="restful-web-service" target="1.8" />
       <module name="scheduling-tasks" target="1.8" />
       <module name="spring-boot-demo" target="1.8" />
       <module name="upload-files" target="1.8" />
+      <module name="validate-form-input" target="1.8" />
+      <module name="web-actuator" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

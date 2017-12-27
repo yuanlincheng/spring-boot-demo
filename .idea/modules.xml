@@ -4,10 +4,13 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/access-data-jdbc/access-data-jdbc.iml" filepath="$PROJECT_DIR$/access-data-jdbc/access-data-jdbc.iml" />
       <module fileurl="file://$PROJECT_DIR$/consume-rest-ws/consume-rest-ws.iml" filepath="$PROJECT_DIR$/consume-rest-ws/consume-rest-ws.iml" />
+      <module fileurl="file://$PROJECT_DIR$/message-with-redis/message-with-redis.iml" filepath="$PROJECT_DIR$/message-with-redis/message-with-redis.iml" />
       <module fileurl="file://$PROJECT_DIR$/restful-web-service/restful-web-service.iml" filepath="$PROJECT_DIR$/restful-web-service/restful-web-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/scheduling-tasks/scheduling-tasks.iml" filepath="$PROJECT_DIR$/scheduling-tasks/scheduling-tasks.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-demo.iml" filepath="$PROJECT_DIR$/spring-boot-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/upload-files/upload-files.iml" filepath="$PROJECT_DIR$/upload-files/upload-files.iml" />
+      <module fileurl="file://$PROJECT_DIR$/validate-form-input/validate-form-input.iml" filepath="$PROJECT_DIR$/validate-form-input/validate-form-input.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web-actuator/web-actuator.iml" filepath="$PROJECT_DIR$/web-actuator/web-actuator.iml" />
     </modules>
   </component>
 </project>
