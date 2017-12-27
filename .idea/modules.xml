@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/access-data-jdbc/access-data-jdbc.iml" filepath="$PROJECT_DIR$/access-data-jdbc/access-data-jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/access-data-jpa/access-data-jpa.iml" filepath="$PROJECT_DIR$/access-data-jpa/access-data-jpa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/async-method/async-method.iml" filepath="$PROJECT_DIR$/async-method/async-method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/batch-service/batch-service.iml" filepath="$PROJECT_DIR$/batch-service/batch-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/consume-rest-ws/consume-rest-ws.iml" filepath="$PROJECT_DIR$/consume-rest-ws/consume-rest-ws.iml" />
       <module fileurl="file://$PROJECT_DIR$/message-with-jms/message-with-jms.iml" filepath="$PROJECT_DIR$/message-with-jms/message-with-jms.iml" />
       <module fileurl="file://$PROJECT_DIR$/message-with-redis/message-with-redis.iml" filepath="$PROJECT_DIR$/message-with-redis/message-with-redis.iml" />
@@ -12,6 +15,7 @@
       <module fileurl="file://$PROJECT_DIR$/upload-files/upload-files.iml" filepath="$PROJECT_DIR$/upload-files/upload-files.iml" />
       <module fileurl="file://$PROJECT_DIR$/validate-form-input/validate-form-input.iml" filepath="$PROJECT_DIR$/validate-form-input/validate-form-input.iml" />
       <module fileurl="file://$PROJECT_DIR$/web-actuator/web-actuator.iml" filepath="$PROJECT_DIR$/web-actuator/web-actuator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web-security/web-security.iml" filepath="$PROJECT_DIR$/web-security/web-security.iml" />
     </modules>
   </component>
 </project>

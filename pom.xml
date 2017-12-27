@@ -17,6 +17,10 @@
         <module>validate-form-input</module>
         <module>web-actuator</module>
         <module>message-with-jms</module>
+        <module>batch-service</module>
+        <module>web-security</module>
+        <module>access-data-jpa</module>
+        <module>async-method</module>
     </modules>
 
     <!--第一种方式 使用spring boot-->
@@ -41,7 +45,7 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <!--必须要加下面的选项，maven会使用此项打包-->
+        <!-- spring-boot必须要加下面的选项，来定义程序使用的Java版本-->
         <java.version>1.8</java.version>
     </properties>
 
@@ -57,10 +61,16 @@
             <artifactId>spring-boot-starter-test</artifactId>
             <scope>test</scope>
         </dependency>
-        <!--启用spring boot thymeleaf组件 网页模板-->
+        <!--启用spring boot thymeleaf视图组件-->
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-thymeleaf</artifactId>
+        </dependency>
+        <!--启用spring boot devtools 热部署组件-->
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-devtools</artifactId>
+            <optional>true</optional>
         </dependency>
         <!--引用lombok组件,用于简化JAVA开发样板代码-->
         <dependency>

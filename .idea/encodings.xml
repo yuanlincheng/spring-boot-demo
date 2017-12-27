@@ -3,6 +3,9 @@
   <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/access-data-jdbc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/access-data-jpa" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/async-method" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/batch-service" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/consume-rest-ws" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/message-with-jms" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/message-with-redis" charset="UTF-8" />
@@ -11,6 +14,7 @@
     <file url="file://$PROJECT_DIR$/upload-files" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/validate-form-input" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/web-actuator" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web-security" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>

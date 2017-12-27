@@ -7,6 +7,9 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="access-data-jdbc" />
+        <module name="access-data-jpa" />
+        <module name="async-method" />
+        <module name="batch-service" />
         <module name="consume-rest-ws" />
         <module name="message-with-jms" />
         <module name="message-with-redis" />
@@ -15,10 +18,14 @@
         <module name="upload-files" />
         <module name="validate-form-input" />
         <module name="web-actuator" />
+        <module name="web-security" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
       <module name="access-data-jdbc" target="1.8" />
+      <module name="access-data-jpa" target="1.8" />
+      <module name="async-method" target="1.8" />
+      <module name="batch-service" target="1.8" />
       <module name="consume-rest-ws" target="1.8" />
       <module name="message-with-jms" target="1.8" />
       <module name="message-with-redis" target="1.8" />
@@ -28,6 +35,7 @@
       <module name="upload-files" target="1.8" />
       <module name="validate-form-input" target="1.8" />
       <module name="web-actuator" target="1.8" />
+      <module name="web-security" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
