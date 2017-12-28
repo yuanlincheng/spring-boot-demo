@@ -21,6 +21,10 @@
         <module>web-security</module>
         <module>access-data-jpa</module>
         <module>async-method</module>
+        <module>handle-form-submit</module>
+        <module>consume-soap-ws</module>
+        <module>cache-data</module>
+        <module>produce-soap-ws</module>
     </modules>
 
     <!--第一种方式 使用spring boot-->
@@ -65,12 +69,6 @@
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-thymeleaf</artifactId>
-        </dependency>
-        <!--启用spring boot devtools 热部署组件-->
-        <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-devtools</artifactId>
-            <optional>true</optional>
         </dependency>
         <!--引用lombok组件,用于简化JAVA开发样板代码-->
         <dependency>

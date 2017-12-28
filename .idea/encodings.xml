@@ -6,9 +6,13 @@
     <file url="file://$PROJECT_DIR$/access-data-jpa" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/async-method" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/batch-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cache-data" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/consume-rest-ws" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/consume-soap-ws" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/handle-form-submit" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/message-with-jms" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/message-with-redis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/produce-soap-ws" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/restful-web-service" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/scheduling-tasks" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/upload-files" charset="UTF-8" />

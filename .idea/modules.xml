@@ -6,9 +6,13 @@
       <module fileurl="file://$PROJECT_DIR$/access-data-jpa/access-data-jpa.iml" filepath="$PROJECT_DIR$/access-data-jpa/access-data-jpa.iml" />
       <module fileurl="file://$PROJECT_DIR$/async-method/async-method.iml" filepath="$PROJECT_DIR$/async-method/async-method.iml" />
       <module fileurl="file://$PROJECT_DIR$/batch-service/batch-service.iml" filepath="$PROJECT_DIR$/batch-service/batch-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cache-data/cache-data.iml" filepath="$PROJECT_DIR$/cache-data/cache-data.iml" />
       <module fileurl="file://$PROJECT_DIR$/consume-rest-ws/consume-rest-ws.iml" filepath="$PROJECT_DIR$/consume-rest-ws/consume-rest-ws.iml" />
+      <module fileurl="file://$PROJECT_DIR$/consume-soap-ws/consume-soap-ws.iml" filepath="$PROJECT_DIR$/consume-soap-ws/consume-soap-ws.iml" />
+      <module fileurl="file://$PROJECT_DIR$/handle-form-submit/handle-form-submit.iml" filepath="$PROJECT_DIR$/handle-form-submit/handle-form-submit.iml" />
       <module fileurl="file://$PROJECT_DIR$/message-with-jms/message-with-jms.iml" filepath="$PROJECT_DIR$/message-with-jms/message-with-jms.iml" />
       <module fileurl="file://$PROJECT_DIR$/message-with-redis/message-with-redis.iml" filepath="$PROJECT_DIR$/message-with-redis/message-with-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/produce-soap-ws/produce-soap-ws.iml" filepath="$PROJECT_DIR$/produce-soap-ws/produce-soap-ws.iml" />
       <module fileurl="file://$PROJECT_DIR$/restful-web-service/restful-web-service.iml" filepath="$PROJECT_DIR$/restful-web-service/restful-web-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/scheduling-tasks/scheduling-tasks.iml" filepath="$PROJECT_DIR$/scheduling-tasks/scheduling-tasks.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-demo.iml" filepath="$PROJECT_DIR$/spring-boot-demo.iml" />

@@ -10,9 +10,13 @@
         <module name="access-data-jpa" />
         <module name="async-method" />
         <module name="batch-service" />
+        <module name="cache-data" />
         <module name="consume-rest-ws" />
+        <module name="consume-soap-ws" />
+        <module name="handle-form-submit" />
         <module name="message-with-jms" />
         <module name="message-with-redis" />
+        <module name="produce-soap-ws" />
         <module name="restful-web-service" />
         <module name="scheduling-tasks" />
         <module name="upload-files" />
@@ -26,9 +30,13 @@
       <module name="access-data-jpa" target="1.8" />
       <module name="async-method" target="1.8" />
       <module name="batch-service" target="1.8" />
+      <module name="cache-data" target="1.8" />
       <module name="consume-rest-ws" target="1.8" />
+      <module name="consume-soap-ws" target="1.8" />
+      <module name="handle-form-submit" target="1.8" />
       <module name="message-with-jms" target="1.8" />
       <module name="message-with-redis" target="1.8" />
+      <module name="produce-soap-ws" target="1.8" />
       <module name="restful-web-service" target="1.8" />
       <module name="scheduling-tasks" target="1.8" />
       <module name="spring-boot-demo" target="1.8" />
