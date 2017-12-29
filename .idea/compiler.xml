@@ -8,17 +8,29 @@
         <outputRelativeToContentRoot value="true" />
         <module name="access-data-jdbc" />
         <module name="access-data-jpa" />
+        <module name="access-data-mysql" />
         <module name="async-method" />
         <module name="batch-service" />
         <module name="cache-data" />
+        <module name="config-client" />
+        <module name="config-server" />
         <module name="consume-rest-ws" />
         <module name="consume-soap-ws" />
+        <module name="eureka-client" />
+        <module name="eureka-server" />
+        <module name="eureka-service" />
         <module name="handle-form-submit" />
+        <module name="load-balance-client" />
+        <module name="load-balance-server" />
         <module name="message-with-jms" />
         <module name="message-with-redis" />
         <module name="produce-soap-ws" />
+        <module name="restdoc-ws" />
         <module name="restful-web-service" />
+        <module name="rout-gateway" />
+        <module name="route-book" />
         <module name="scheduling-tasks" />
+        <module name="service-reg-dis" />
         <module name="upload-files" />
         <module name="validate-form-input" />
         <module name="web-actuator" />
@@ -28,17 +40,29 @@
     <bytecodeTargetLevel target="1.8">
       <module name="access-data-jdbc" target="1.8" />
       <module name="access-data-jpa" target="1.8" />
+      <module name="access-data-mysql" target="1.8" />
       <module name="async-method" target="1.8" />
       <module name="batch-service" target="1.8" />
       <module name="cache-data" target="1.8" />
+      <module name="config-client" target="1.8" />
+      <module name="config-server" target="1.8" />
       <module name="consume-rest-ws" target="1.8" />
       <module name="consume-soap-ws" target="1.8" />
+      <module name="eureka-client" target="1.8" />
+      <module name="eureka-server" target="1.8" />
+      <module name="eureka-service" target="1.8" />
       <module name="handle-form-submit" target="1.8" />
+      <module name="load-balance-client" target="1.8" />
+      <module name="load-balance-server" target="1.8" />
       <module name="message-with-jms" target="1.8" />
       <module name="message-with-redis" target="1.8" />
       <module name="produce-soap-ws" target="1.8" />
+      <module name="restdoc-ws" target="1.8" />
       <module name="restful-web-service" target="1.8" />
+      <module name="rout-gateway" target="1.8" />
+      <module name="route-book" target="1.8" />
       <module name="scheduling-tasks" target="1.8" />
+      <module name="service-reg-dis" target="1.8" />
       <module name="spring-boot-demo" target="1.8" />
       <module name="upload-files" target="1.8" />
       <module name="validate-form-input" target="1.8" />

@@ -1,11 +1,13 @@
 package com.ylc;
 
+import com.ylc.wsdl.Country;
+import com.ylc.wsdl.Currency;
 import org.springframework.stereotype.Component;
 import org.springframework.util.Assert;
 
 import javax.annotation.PostConstruct;
-import java.util.Currency;
 import java.util.HashMap;
+import java.util.Map;
 
 /**
  * @author: tree

@@ -25,6 +25,16 @@
         <module>consume-soap-ws</module>
         <module>cache-data</module>
         <module>produce-soap-ws</module>
+        <module>eureka-server</module>
+        <module>eureka-client</module>
+        <module>config-server</module>
+        <module>config-client</module>
+        <module>route-book</module>
+        <module>rout-gateway</module>
+        <module>load-balance-server</module>
+        <module>load-balance-client</module>
+        <module>access-data-mysql</module>
+        <module>restdoc-ws</module>
     </modules>
 
     <!--第一种方式 使用spring boot-->
@@ -32,6 +42,7 @@
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
         <version>1.5.9.RELEASE</version>
+        <relativePath/>
     </parent>
 
     <!--第二种方式 使用spring boot，好处是可以使用自己的parent-->
@@ -69,6 +80,11 @@
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-thymeleaf</artifactId>
+        </dependency>
+        <!--启用spring boot actuator监控组件-->
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-actuator</artifactId>
         </dependency>
         <!--引用lombok组件,用于简化JAVA开发样板代码-->
         <dependency>

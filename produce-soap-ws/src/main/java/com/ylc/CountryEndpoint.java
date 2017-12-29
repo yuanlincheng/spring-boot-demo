@@ -1,7 +1,7 @@
 package com.ylc;
 
-import io.spring.guides.gs_producing_web_service.GetCountryRequest;
-import io.spring.guides.gs_producing_web_service.GetCountryResponse;
+import com.ylc.wsdl.GetCountryRequest;
+import com.ylc.wsdl.GetCountryResponse;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.ws.server.endpoint.annotation.Endpoint;
 import org.springframework.ws.server.endpoint.annotation.PayloadRoot;
@@ -17,7 +17,7 @@ import org.springframework.ws.server.endpoint.annotation.ResponsePayload;
  */
 @Endpoint
 public class CountryEndpoint {
-    private static final String NAMESPACE_URI = "http://spring.io/guides/gs-producing-web-service";
+    private static final String NAMESPACE_URI = "http://com/ylc/wsdl";
 
     private CountryRepository countryRepository;
 

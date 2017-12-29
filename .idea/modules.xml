@@ -4,16 +4,26 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/access-data-jdbc/access-data-jdbc.iml" filepath="$PROJECT_DIR$/access-data-jdbc/access-data-jdbc.iml" />
       <module fileurl="file://$PROJECT_DIR$/access-data-jpa/access-data-jpa.iml" filepath="$PROJECT_DIR$/access-data-jpa/access-data-jpa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/access-data-mysql/access-data-mysql.iml" filepath="$PROJECT_DIR$/access-data-mysql/access-data-mysql.iml" />
       <module fileurl="file://$PROJECT_DIR$/async-method/async-method.iml" filepath="$PROJECT_DIR$/async-method/async-method.iml" />
       <module fileurl="file://$PROJECT_DIR$/batch-service/batch-service.iml" filepath="$PROJECT_DIR$/batch-service/batch-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/cache-data/cache-data.iml" filepath="$PROJECT_DIR$/cache-data/cache-data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-client/config-client.iml" filepath="$PROJECT_DIR$/config-client/config-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-server/config-server.iml" filepath="$PROJECT_DIR$/config-server/config-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/consume-rest-ws/consume-rest-ws.iml" filepath="$PROJECT_DIR$/consume-rest-ws/consume-rest-ws.iml" />
       <module fileurl="file://$PROJECT_DIR$/consume-soap-ws/consume-soap-ws.iml" filepath="$PROJECT_DIR$/consume-soap-ws/consume-soap-ws.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-client/eureka-client.iml" filepath="$PROJECT_DIR$/eureka-client/eureka-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/handle-form-submit/handle-form-submit.iml" filepath="$PROJECT_DIR$/handle-form-submit/handle-form-submit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/load-balance-client/load-balance-client.iml" filepath="$PROJECT_DIR$/load-balance-client/load-balance-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/load-balance-server/load-balance-server.iml" filepath="$PROJECT_DIR$/load-balance-server/load-balance-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/message-with-jms/message-with-jms.iml" filepath="$PROJECT_DIR$/message-with-jms/message-with-jms.iml" />
       <module fileurl="file://$PROJECT_DIR$/message-with-redis/message-with-redis.iml" filepath="$PROJECT_DIR$/message-with-redis/message-with-redis.iml" />
       <module fileurl="file://$PROJECT_DIR$/produce-soap-ws/produce-soap-ws.iml" filepath="$PROJECT_DIR$/produce-soap-ws/produce-soap-ws.iml" />
+      <module fileurl="file://$PROJECT_DIR$/restdoc-ws/restdoc-ws.iml" filepath="$PROJECT_DIR$/restdoc-ws/restdoc-ws.iml" />
       <module fileurl="file://$PROJECT_DIR$/restful-web-service/restful-web-service.iml" filepath="$PROJECT_DIR$/restful-web-service/restful-web-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rout-gateway/rout-gateway.iml" filepath="$PROJECT_DIR$/rout-gateway/rout-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/route-book/route-book.iml" filepath="$PROJECT_DIR$/route-book/route-book.iml" />
       <module fileurl="file://$PROJECT_DIR$/scheduling-tasks/scheduling-tasks.iml" filepath="$PROJECT_DIR$/scheduling-tasks/scheduling-tasks.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-demo.iml" filepath="$PROJECT_DIR$/spring-boot-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/upload-files/upload-files.iml" filepath="$PROJECT_DIR$/upload-files/upload-files.iml" />
