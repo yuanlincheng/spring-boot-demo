@@ -30,6 +30,7 @@
       <module fileurl="file://$PROJECT_DIR$/validate-form-input/validate-form-input.iml" filepath="$PROJECT_DIR$/validate-form-input/validate-form-input.iml" />
       <module fileurl="file://$PROJECT_DIR$/web-actuator/web-actuator.iml" filepath="$PROJECT_DIR$/web-actuator/web-actuator.iml" />
       <module fileurl="file://$PROJECT_DIR$/web-security/web-security.iml" filepath="$PROJECT_DIR$/web-security/web-security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web-static-resource/web-static-resource.iml" filepath="$PROJECT_DIR$/web-static-resource/web-static-resource.iml" />
     </modules>
   </component>
 </project>

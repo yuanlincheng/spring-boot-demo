@@ -35,6 +35,7 @@
         <module name="validate-form-input" />
         <module name="web-actuator" />
         <module name="web-security" />
+        <module name="web-static-resource" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
@@ -68,6 +69,7 @@
       <module name="validate-form-input" target="1.8" />
       <module name="web-actuator" target="1.8" />
       <module name="web-security" target="1.8" />
+      <module name="web-static-resource" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
